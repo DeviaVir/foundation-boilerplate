@@ -2,3 +2,9 @@
 *.scssc
 
 *.sassc
+
+node_modules
+
+assets/css/app.css
+
+assets/js/package.js
