@@ -6,5 +6,5 @@
 node_modules
 
 assets/css/app.css
-
+assets/css/app.css.map
 assets/js/package.js
